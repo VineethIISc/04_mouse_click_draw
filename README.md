@@ -7,7 +7,7 @@ Draw Triangles:
   2) InteriveDraw class is written for rendering points pick up with mouse
   
 Output Image:
-![](images/ouput.png)
+![](images/output.png)
 
 References:
 1) http://ogldev.atspace.co.uk
